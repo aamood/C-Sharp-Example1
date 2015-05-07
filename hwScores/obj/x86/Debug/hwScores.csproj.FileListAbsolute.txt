@@ -1,0 +1,4 @@
+C:\Users\Aaron\Documents\School\2014 Spring\Object-Oriented Programming I\Projects\Ch7\7-8\hwScores\hwScores\bin\Debug\hwScores.exe
+C:\Users\Aaron\Documents\School\2014 Spring\Object-Oriented Programming I\Projects\Ch7\7-8\hwScores\hwScores\bin\Debug\hwScores.pdb
+C:\Users\Aaron\Documents\School\2014 Spring\Object-Oriented Programming I\Projects\Ch7\7-8\hwScores\hwScores\obj\x86\Debug\hwScores.exe
+C:\Users\Aaron\Documents\School\2014 Spring\Object-Oriented Programming I\Projects\Ch7\7-8\hwScores\hwScores\obj\x86\Debug\hwScores.pdb
